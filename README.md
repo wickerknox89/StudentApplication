@@ -11,5 +11,5 @@
     2. git add .
     3. git commit -am "Baseline"
     4. git remote add origin https://github.com/wickerknox89/StudentApplication.git
-    5. git push origin master
+    5. git push -u origin master
 
